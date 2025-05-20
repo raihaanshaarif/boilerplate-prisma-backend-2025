@@ -1,0 +1,11 @@
+// NODE_ENV = "development";
+// PORT = 3000;
+// DATABASE_URL = JWT_SECRET = "";
+// JWT_REFRESH_SECRET = "";
+// EXPIRES_IN = "30m";
+// REFRESH_TOKEN_EXPIRES_IN = "30d";
+// RESET_PASSWORD_SECRET = "";
+// RESET_PASSWORD_EXPIRES_IN = "5h";
+// RESET_PASS_LINK = "http://localhost:3000/reset-password";
+// EMAIL = "takeoutbhairab@gmail.com";
+// APP_PASSWORD = "";
